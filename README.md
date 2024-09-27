@@ -23,7 +23,7 @@ onnxruntime<br>
 
 Clone the repository:
 
-git clone https://github.com/your-username/Green-Screen-Replacer.git
+git clone https://github.com/SRIRAM-53-hash/Green-Screen-Replacer.git
 cd green-screen-replacement
 
 python3 -m venv env
