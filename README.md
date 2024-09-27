@@ -8,16 +8,16 @@ Installation<br>
 How It Works<br>
 References<br>
 
-##Requirements
-Python 3.x
-OpenCV (opencv-python)
-MediaPipe
-Numpy
-tqdm
-stow
-TensorFlow 2.x (tensorflow==2.*)
-tf2onnx
-onnxruntime
+## Requirements
+Python 3.x<br>
+OpenCV (opencv-python)<br>
+MediaPipe<br>
+Numpy<br>
+tqdm<br>
+stow<br>
+TensorFlow 2.x (tensorflow==2.*)<br>
+tf2onnx<br>
+onnxruntime<br>
 
 ## Installation
 
