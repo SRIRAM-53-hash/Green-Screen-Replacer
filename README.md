@@ -57,6 +57,6 @@ Background Replacement: Once the foreground subject is isolated, the background 
 Optimization: ONNX Runtime is used to accelerate TensorFlow models by converting them into ONNX format and performing inference faster.
 
 ## References
-OpenCV Documentation
-MediaPipe Documentation
-TensorFlow 2.x Documentation
+OpenCV Documentation<br>
+MediaPipe Documentation<br>
+TensorFlow 2.x Documentation<br>
