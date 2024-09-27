@@ -3,10 +3,10 @@ Project Overview
 This project demonstrates how to replace the background of a green screen video using Python, OpenCV, MediaPipe, and several other essential libraries. The pipeline uses machine learning models to segment the foreground from the background and replace the background with an image or video of your choice.
 
 ## Table of Contents
-Requirements
-Installation
-How It Works
-References
+Requirements<br>
+Installation<br>
+How It Works<br>
+References<br>
 
 ##Requirements
 Python 3.x
