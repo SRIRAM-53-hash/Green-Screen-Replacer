@@ -3,7 +3,7 @@ import cv2
 import typing
 
 class PencilSketch:
-    """Apply pencil sketch effect to an image
+    """Apply pencil sketch effect to an image(important )
     """
     def __init__(
         self,
